@@ -34,6 +34,7 @@ project_name/
 └── src/
 ```
 
-## Primera entrega: Presentación del problema de investigación y fuente de información
+## Primera entrega: Presentación del problema de investigación y fuentes de información
 
-[Ver presentación](https://docs.google.com/presentation/d/1I2pw2M6nYXUw8yb6lBQCMYNHlkb5azJrH6cFbYieZGE/edit?usp=sharing)
+
+Link presentación: [Ver presentación](https://docs.google.com/presentation/d/1I2pw2M6nYXUw8yb6lBQCMYNHlkb5azJrH6cFbYieZGE/edit?usp=sharing)
